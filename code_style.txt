@@ -1,0 +1,1 @@
+{0: '21st_Century', 1: 'Baroque', 2: 'Classical', 3: 'Early_Christian_Medieval', 4: 'Eclecticism', 5: 'Modernism', 6: 'Neoclassicism', 7: 'Renaissance_and_Colonialism', 8: 'Revivalism'}
